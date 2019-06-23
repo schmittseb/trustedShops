@@ -1,0 +1,7 @@
+.mode1 tr:nth-child(2n+1) {
+  background-color: #D3D3D3;
+}
+
+.mode2 tr:nth-child(2n+2) {
+  background-color: #D3D3D3;
+}

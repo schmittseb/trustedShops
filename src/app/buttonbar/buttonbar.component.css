@@ -1,0 +1,10 @@
+div {
+    background: #343a40;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+button {
+    margin: 5px;
+}
